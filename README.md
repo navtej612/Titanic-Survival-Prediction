@@ -30,4 +30,4 @@ Machine Learning project that predicts passenger survival on the Titanic dataset
 Built a classification model to predict passenger survival based on demographic and travel-related features.
 
 ## Author
-Mansha Malhotra
+Navtej Singh Thukral
